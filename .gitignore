@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+.python-version
+node_modules/
+.expo/
+.DS_Store
